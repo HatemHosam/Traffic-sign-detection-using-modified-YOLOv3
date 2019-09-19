@@ -5,4 +5,9 @@ Many tests have been conducted to improve the accuracy adopting many techniques 
 until now our modified network can detect 8 traffic signs classes, car and pedestrian, this project is conducted in multimedia image processing lab, department of information and communication, school of electrical engineering, Chungbuk National University.
 <img src=image_.jpg>
 
+
 here are some results of the detection:
+<img src=result1.gif>
+<img src=result2.gif>
+<img src=result3.gif>
+<img src=result4.gif>
